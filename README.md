@@ -5,5 +5,5 @@ This is a java solution for challenge provided by rooftop academy team.
 * Java 8
 # How to run it
 1. Execute the following command: 
-* mvn compile exec:java -Dexec.mainClass="com.snunez.challenge.Main"
+* mvn compile exec:java -Dexec.mainClass="com.snunez.challenge.Main" /n
 Path: /src/main/java/com/snunez/challenge/Solution.java
