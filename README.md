@@ -6,4 +6,5 @@ This is a java solution for challenge provided by rooftop academy team.
 # How to run it
 1. Execute the following command: 
 * mvn compile exec:java -Dexec.mainClass="com.snunez.challenge.Main"
-(Path: /src/main/java/com/snunez/challenge/Solution.java)
+# Path
+/src/main/java/com/snunez/challenge/Solution.java
